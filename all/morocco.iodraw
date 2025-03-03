@@ -349,7 +349,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="v4x41riAGYuipoFsidrP-60" value="PCRF" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.traditional_server;fillColor=#7D7C7C;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="781.25" y="570" width="35.48" height="45" as="geometry" />
+          <mxGeometry x="661.48" y="568" width="35.48" height="45" as="geometry" />
         </mxCell>
         <mxCell id="v4x41riAGYuipoFsidrP-219" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.02;exitY=0.02;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;strokeColor=#000000;strokeWidth=2;" parent="1" source="v4x41riAGYuipoFsidrP-61" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -367,7 +367,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="v4x41riAGYuipoFsidrP-61" value="Server*6" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.traditional_server;fillColor=#7D7C7C;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="828.81" y="570" width="35.48" height="45" as="geometry" />
+          <mxGeometry x="709.04" y="568" width="35.48" height="45" as="geometry" />
         </mxCell>
         <mxCell id="v4x41riAGYuipoFsidrP-211" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.02;exitY=0.98;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;strokeColor=#000000;strokeWidth=2;" parent="1" source="v4x41riAGYuipoFsidrP-62" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -381,7 +381,7 @@
         </mxCell>
         <mxCell id="v4x41riAGYuipoFsidrP-225" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;strokeColor=#001DBC;strokeWidth=4;fillColor=#0050ef;" parent="1" source="v4x41riAGYuipoFsidrP-62" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="644" y="546" as="targetPoint" />
+            <mxPoint x="644" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="v4x41riAGYuipoFsidrP-62" value="Hot Spare" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.traditional_server;fillColor=#7D7C7C;gradientColor=none;" parent="1" vertex="1">
