@@ -639,6 +639,9 @@
             <mxPoint x="851" y="623" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="w2ItFx2C_g5Avui5VUN7-49" value="Interconnect with UIP etc." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="612" y="665" width="143" height="25" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
