@@ -32,7 +32,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="v4x41riAGYuipoFsidrP-9" value="H3C_FW*2" style="image;html=1;image=img/lib/clip_art/networking/Firewall_02_128x128.png" parent="1" vertex="1">
-          <mxGeometry x="754.83" y="278" width="40" height="50" as="geometry" />
+          <mxGeometry x="750" y="285" width="40" height="50" as="geometry" />
         </mxCell>
         <mxCell id="v4x41riAGYuipoFsidrP-69" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.98;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;strokeColor=#000000;strokeWidth=3;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
