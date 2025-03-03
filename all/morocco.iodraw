@@ -397,6 +397,11 @@
             <mxPoint x="455" y="885" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="w2ItFx2C_g5Avui5VUN7-26" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#001DBC;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;strokeWidth=4;" edge="1" parent="1" source="v4x41riAGYuipoFsidrP-63">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240.56413386418262" y="605.2820199819712" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="v4x41riAGYuipoFsidrP-63" value="CC" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.traditional_server;fillColor=#7D7C7C;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="443.42" y="646" width="35.48" height="45" as="geometry" />
         </mxCell>
