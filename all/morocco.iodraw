@@ -392,7 +392,7 @@
         <mxCell id="v4x41riAGYuipoFsidrP-136" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;strokeColor=#B20000;strokeWidth=2;fillColor=#e51400;" parent="1" source="v4x41riAGYuipoFsidrP-63" target="v4x41riAGYuipoFsidrP-64" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="v4x41riAGYuipoFsidrP-221" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;strokeColor=#001DBC;strokeWidth=4;fillColor=#0050ef;" parent="1" source="v4x41riAGYuipoFsidrP-63" edge="1">
+        <mxCell id="v4x41riAGYuipoFsidrP-221" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;strokeColor=#001DBC;strokeWidth=4;fillColor=#0050ef;" parent="1" source="v4x41riAGYuipoFsidrP-63" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="228.46" y="603" as="targetPoint" />
           </mxGeometry>
@@ -403,7 +403,7 @@
         <mxCell id="v4x41riAGYuipoFsidrP-63" value="CC" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.traditional_server;fillColor=#7D7C7C;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="443.42" y="646" width="35.48" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="v4x41riAGYuipoFsidrP-222" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;strokeColor=#001DBC;strokeWidth=4;fillColor=#0050ef;" parent="1" source="v4x41riAGYuipoFsidrP-64" edge="1">
+        <mxCell id="v4x41riAGYuipoFsidrP-222" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;strokeColor=#001DBC;strokeWidth=4;fillColor=#0050ef;" parent="1" source="v4x41riAGYuipoFsidrP-64" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="271.46" y="603" as="targetPoint" />
           </mxGeometry>
