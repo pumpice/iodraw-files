@@ -523,8 +523,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="w2ItFx2C_g5Avui5VUN7-12" value="Tunnel" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="561" y="88" width="54" height="26" as="geometry" />
+        <mxCell id="w2ItFx2C_g5Avui5VUN7-12" value="Tunnel" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="581" y="90" width="54" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
