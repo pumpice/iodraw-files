@@ -401,7 +401,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="v4x41riAGYuipoFsidrP-63" value="CC" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.traditional_server;fillColor=#7D7C7C;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="211.46" y="779" width="35.48" height="45" as="geometry" />
+          <mxGeometry x="443.42" y="646" width="35.48" height="45" as="geometry" />
         </mxCell>
         <mxCell id="v4x41riAGYuipoFsidrP-222" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;strokeColor=#001DBC;strokeWidth=4;fillColor=#0050ef;" parent="1" source="v4x41riAGYuipoFsidrP-64" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -414,7 +414,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="v4x41riAGYuipoFsidrP-64" value="Server*2" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.traditional_server;fillColor=#7D7C7C;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="290.5" y="779" width="208.5" height="45" as="geometry" />
+          <mxGeometry x="486.97999999999996" y="646" width="35.48" height="45" as="geometry" />
         </mxCell>
         <mxCell id="v4x41riAGYuipoFsidrP-66" value="" style="html=1;strokeWidth=3;endArrow=none;endFill=0;" parent="1" edge="1">
           <mxGeometry width="100" relative="1" as="geometry">
