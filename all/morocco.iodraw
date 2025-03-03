@@ -596,8 +596,11 @@
         <mxCell id="w2ItFx2C_g5Avui5VUN7-39" value="OOB" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="316" y="664" width="42" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="w2ItFx2C_g5Avui5VUN7-41" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="580" y="565" width="38" height="25" as="geometry" />
+        <mxCell id="w2ItFx2C_g5Avui5VUN7-41" value="Service" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="586" y="566" width="55" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="w2ItFx2C_g5Avui5VUN7-42" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="580" y="607" width="38" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
