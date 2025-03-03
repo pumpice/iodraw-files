@@ -58,7 +58,7 @@
         </mxCell>
         <mxCell id="v4x41riAGYuipoFsidrP-206" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.98;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;strokeColor=#000000;strokeWidth=3;" parent="1" source="v4x41riAGYuipoFsidrP-18" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="685" y="446" as="targetPoint" />
+            <mxPoint x="743" y="504" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="v4x41riAGYuipoFsidrP-18" value="NEW_DELL_SW3" style="shape=mxgraph.cisco.switches.workgroup_switch;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
