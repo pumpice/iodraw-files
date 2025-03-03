@@ -577,7 +577,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="w2ItFx2C_g5Avui5VUN7-25" value="Old Rabat &lt;br&gt;Environment" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="w2ItFx2C_g5Avui5VUN7-25" value="Old Rabat &lt;br&gt;Environment" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;opacity=20;" vertex="1" parent="1">
           <mxGeometry x="867" y="554" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
