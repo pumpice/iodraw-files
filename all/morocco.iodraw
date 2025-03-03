@@ -495,6 +495,15 @@
         <mxCell id="v4x41riAGYuipoFsidrP-252" value="SAN SW&lt;br&gt;From PR" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.switch;" parent="1" vertex="1">
           <mxGeometry x="629.9999999999999" y="729" width="98.95" height="31" as="geometry" />
         </mxCell>
+        <mxCell id="w2ItFx2C_g5Avui5VUN7-1" value="Meditel &lt;br&gt;IP Backbone" style="html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.cloud;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="470" y="60" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w2ItFx2C_g5Avui5VUN7-2" value="Core-SW1" style="shape=mxgraph.cisco.switches.layer_3_switch;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="106" width="44" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="w2ItFx2C_g5Avui5VUN7-3" value="Core-SW2" style="shape=mxgraph.cisco.switches.layer_3_switch;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="561.46" y="110" width="44" height="44" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
