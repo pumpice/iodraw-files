@@ -535,7 +535,10 @@
         <mxCell id="w2ItFx2C_g5Avui5VUN7-12" value="IPBB" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="586" y="90" width="45" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="w2ItFx2C_g5Avui5VUN7-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="w2ItFx2C_g5Avui5VUN7-2" target="w2ItFx2C_g5Avui5VUN7-9">
+        <mxCell id="w2ItFx2C_g5Avui5VUN7-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#f8cecc;strokeColor=#b85450;endArrow=none;endFill=0;strokeWidth=2;" edge="1" parent="1" source="w2ItFx2C_g5Avui5VUN7-2" target="w2ItFx2C_g5Avui5VUN7-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w2ItFx2C_g5Avui5VUN7-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="w2ItFx2C_g5Avui5VUN7-3" target="w2ItFx2C_g5Avui5VUN7-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
