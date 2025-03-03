@@ -507,11 +507,11 @@
         <mxCell id="w2ItFx2C_g5Avui5VUN7-8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.98;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;strokeColor=#b85450;strokeWidth=2;shape=link;fillColor=#f8cecc;" edge="1" parent="1" source="w2ItFx2C_g5Avui5VUN7-9" target="w2ItFx2C_g5Avui5VUN7-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="w2ItFx2C_g5Avui5VUN7-9" value="NEW_DELL_SW3" style="shape=mxgraph.cisco.switches.workgroup_switch;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="725" y="330" width="55.46" height="30" as="geometry" />
+        <mxCell id="w2ItFx2C_g5Avui5VUN7-9" value="Leaf-SW3" style="shape=mxgraph.cisco.switches.workgroup_switch;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="967" y="320" width="55.46" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w2ItFx2C_g5Avui5VUN7-10" value="NEW_DELL_SW4" style="shape=mxgraph.cisco.switches.workgroup_switch;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="851" y="330" width="55.46" height="30" as="geometry" />
+          <mxGeometry x="1093" y="320" width="55.46" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
