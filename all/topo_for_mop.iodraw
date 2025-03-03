@@ -541,7 +541,7 @@
         <mxCell id="w2ItFx2C_g5Avui5VUN7-8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.98;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;strokeColor=#b85450;strokeWidth=2;shape=link;fillColor=#f8cecc;" parent="1" source="w2ItFx2C_g5Avui5VUN7-9" target="w2ItFx2C_g5Avui5VUN7-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="w2ItFx2C_g5Avui5VUN7-32" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.98;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#b85450;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;fillColor=#f8cecc;strokeWidth=4;" parent="1" source="w2ItFx2C_g5Avui5VUN7-9" edge="1">
+        <mxCell id="w2ItFx2C_g5Avui5VUN7-32" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.98;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#b85450;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;fillColor=#f8cecc;strokeWidth=3;" parent="1" source="w2ItFx2C_g5Avui5VUN7-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="430" y="622" as="targetPoint" />
           </mxGeometry>
@@ -549,7 +549,7 @@
         <mxCell id="w2ItFx2C_g5Avui5VUN7-9" value="Leaf-SW3" style="shape=mxgraph.cisco.switches.workgroup_switch;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="402.27" y="392" width="55.46" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="w2ItFx2C_g5Avui5VUN7-33" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.98;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#b85450;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;strokeWidth=4;fillColor=#f8cecc;" parent="1" edge="1">
+        <mxCell id="w2ItFx2C_g5Avui5VUN7-33" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.98;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#b85450;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;strokeWidth=3;fillColor=#f8cecc;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="552" y="577" as="targetPoint" />
             <mxPoint x="551.46" y="424.4000000000001" as="sourcePoint" />
@@ -594,7 +594,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="w2ItFx2C_g5Avui5VUN7-31" value="" style="html=1;strokeWidth=4;endArrow=none;endFill=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" edge="1">
+        <mxCell id="w2ItFx2C_g5Avui5VUN7-31" value="" style="html=1;strokeWidth=3;endArrow=none;endFill=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" edge="1">
           <mxGeometry width="100" relative="1" as="geometry">
             <mxPoint x="391.22999999999973" y="621.46" as="sourcePoint" />
             <mxPoint x="584.77" y="621.46" as="targetPoint" />
