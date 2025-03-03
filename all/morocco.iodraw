@@ -501,7 +501,7 @@
         <mxCell id="w2ItFx2C_g5Avui5VUN7-2" value="Spine-SW1" style="shape=mxgraph.cisco.switches.layer_3_switch;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="1126" y="92" width="44" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="w2ItFx2C_g5Avui5VUN7-3" value="Core-SW2" style="shape=mxgraph.cisco.switches.layer_3_switch;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="w2ItFx2C_g5Avui5VUN7-3" value="Spine-SW2" style="shape=mxgraph.cisco.switches.layer_3_switch;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="1247.46" y="96" width="44" height="44" as="geometry" />
         </mxCell>
       </root>
