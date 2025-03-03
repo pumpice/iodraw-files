@@ -58,10 +58,9 @@
         <mxCell id="v4x41riAGYuipoFsidrP-200" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.98;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;strokeColor=#b85450;strokeWidth=2;shape=link;fillColor=#f8cecc;" parent="1" source="v4x41riAGYuipoFsidrP-18" target="v4x41riAGYuipoFsidrP-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="v4x41riAGYuipoFsidrP-206" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.98;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;strokeColor=#000000;strokeWidth=3;" parent="1" edge="1">
+        <mxCell id="v4x41riAGYuipoFsidrP-206" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.98;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;strokeColor=#000000;strokeWidth=3;" parent="1" source="v4x41riAGYuipoFsidrP-18" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="172.46" y="582" as="targetPoint" />
-            <mxPoint x="172.19000000000005" y="419.4000000000001" as="sourcePoint" />
+            <mxPoint x="172.46" y="584" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="v4x41riAGYuipoFsidrP-18" value="NEW_DELL_SW3" style="shape=mxgraph.cisco.switches.workgroup_switch;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
@@ -393,15 +392,6 @@
         <mxCell id="v4x41riAGYuipoFsidrP-136" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;strokeColor=#B20000;strokeWidth=2;fillColor=#e51400;" parent="1" source="v4x41riAGYuipoFsidrP-63" target="v4x41riAGYuipoFsidrP-64" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="v4x41riAGYuipoFsidrP-221" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;strokeColor=#001DBC;strokeWidth=4;fillColor=#0050ef;" parent="1" source="v4x41riAGYuipoFsidrP-63" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="228.46" y="603" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="461" y="637" />
-              <mxPoint x="228" y="637" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="v4x41riAGYuipoFsidrP-254" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;strokeColor=#000000;strokeWidth=2;" parent="1" target="v4x41riAGYuipoFsidrP-252" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="455" y="885" as="sourcePoint" />
@@ -409,16 +399,6 @@
         </mxCell>
         <mxCell id="v4x41riAGYuipoFsidrP-63" value="CC" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.traditional_server;fillColor=#7D7C7C;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="443.42" y="646" width="35.48" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="v4x41riAGYuipoFsidrP-222" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;strokeColor=#001DBC;strokeWidth=4;fillColor=#0050ef;" parent="1" source="v4x41riAGYuipoFsidrP-64" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="271.46" y="603" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="505" y="756" />
-              <mxPoint x="229" y="756" />
-              <mxPoint x="229" y="603" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="v4x41riAGYuipoFsidrP-255" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;endArrow=none;endFill=0;strokeColor=#000000;strokeWidth=2;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="v4x41riAGYuipoFsidrP-252" edge="1">
           <mxGeometry relative="1" as="geometry">
