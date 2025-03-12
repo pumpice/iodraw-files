@@ -4,11 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="v4x41riAGYuipoFsidrP-5" value="Core-SW1" style="shape=mxgraph.cisco.switches.layer_3_switch;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
+        <mxCell id="v4x41riAGYuipoFsidrP-5" value="Spine-SW1" style="shape=mxgraph.cisco.switches.layer_3_switch;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="237" y="398" width="44" height="44" as="geometry" />
         </mxCell>
         <mxCell id="v4x41riAGYuipoFsidrP-7" value="Core-SW2" style="shape=mxgraph.cisco.switches.layer_3_switch;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="358.46000000000004" y="402" width="44" height="44" as="geometry" />
+          <mxGeometry x="363.00000000000006" y="398" width="44" height="44" as="geometry" />
         </mxCell>
         <mxCell id="v4x41riAGYuipoFsidrP-240" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.98;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;strokeColor=#000000;strokeWidth=3;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
