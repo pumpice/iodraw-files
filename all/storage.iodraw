@@ -10,8 +10,13 @@
         <mxCell id="C-C51ORrXQO7mscXATUr-18" value="DB02" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.traditional_server;gradientColor=none;strokeColor=#036897;fillColor=#036897;" parent="1" vertex="1">
           <mxGeometry x="530" y="351" width="46.5" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="Z1rPHoL6zFNr83Ap3K4W-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="C-C51ORrXQO7mscXATUr-19" target="C-C51ORrXQO7mscXATUr-18">
+        <mxCell id="Z1rPHoL6zFNr83Ap3K4W-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#b85450;shape=link;fillColor=#f8cecc;" edge="1" parent="1" source="C-C51ORrXQO7mscXATUr-19" target="C-C51ORrXQO7mscXATUr-18">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z1rPHoL6zFNr83Ap3K4W-6" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Z1rPHoL6zFNr83Ap3K4W-5">
+          <mxGeometry x="-0.1831" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="C-C51ORrXQO7mscXATUr-19" value="DB01" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.traditional_server;gradientColor=none;strokeColor=#036897;fillColor=#036897;" parent="1" vertex="1">
           <mxGeometry x="377" y="351" width="46.5" height="63" as="geometry" />
