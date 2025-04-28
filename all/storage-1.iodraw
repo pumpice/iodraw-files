@@ -37,7 +37,7 @@
             <mxPoint x="356" y="414" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C-C51ORrXQO7mscXATUr-13" value="&lt;font color=&quot;#000000&quot;&gt;SAN　Storage&lt;/font&gt;" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.storage;fillColor=#036897;" parent="1" vertex="1">
+        <mxCell id="C-C51ORrXQO7mscXATUr-13" value="&lt;font color=&quot;#000000&quot;&gt;Storage&lt;/font&gt;" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.storage;fillColor=#036897;" parent="1" vertex="1">
           <mxGeometry x="186" y="459" width="80" height="90" as="geometry" />
         </mxCell>
         <mxCell id="C-C51ORrXQO7mscXATUr-14" value="&lt;font color=&quot;#000000&quot;&gt;SAN　Storage&lt;/font&gt;" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.storage;fillColor=#036897;" parent="1" vertex="1">
@@ -68,6 +68,9 @@
           <mxGeometry x="-0.211" y="-3" relative="1" as="geometry">
             <mxPoint x="8" y="4" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="BRfXYv5z7ZLlwfHjP5_S-10" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="607" y="539" width="40" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
