@@ -7,7 +7,7 @@
         <mxCell id="C-C51ORrXQO7mscXATUr-50" value="RACK" style="strokeColor=#666666;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rackGeneral.container;fillColor2=#f4f4f4;container=1;collapsible=0;childLayout=rack;allowGaps=1;marginLeft=9;marginRight=9;marginTop=21;marginBottom=22;textColor=#666666;numDisp=off;gradientColor=none;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="255" y="540" width="276" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="C-C51ORrXQO7mscXATUr-44" value="Heartbeat" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#10739e;fillColor=#b1ddf0;" parent="1" vertex="1">
+        <mxCell id="C-C51ORrXQO7mscXATUr-44" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#10739e;fillColor=#b1ddf0;" parent="1" vertex="1">
           <mxGeometry x="170" y="336" width="248" height="100" as="geometry" />
         </mxCell>
         <mxCell id="C-C51ORrXQO7mscXATUr-2" value="SW2" style="shape=mxgraph.cisco.switches.layer_3_switch;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
