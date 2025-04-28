@@ -8,7 +8,7 @@
           <mxGeometry x="255" y="540" width="276" height="160" as="geometry" />
         </mxCell>
         <mxCell id="C-C51ORrXQO7mscXATUr-44" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#10739e;fillColor=#b1ddf0;" parent="1" vertex="1">
-          <mxGeometry x="218" y="336" width="145" height="100" as="geometry" />
+          <mxGeometry x="170" y="336" width="248" height="100" as="geometry" />
         </mxCell>
         <mxCell id="C-C51ORrXQO7mscXATUr-2" value="SW2" style="shape=mxgraph.cisco.switches.layer_3_switch;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="350" y="200" width="64" height="64" as="geometry" />
@@ -62,7 +62,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="C-C51ORrXQO7mscXATUr-19" value="DB01" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.traditional_server;gradientColor=none;strokeColor=#036897;fillColor=#036897;" parent="1" vertex="1">
-          <mxGeometry x="229.5" y="349" width="46.5" height="63" as="geometry" />
+          <mxGeometry x="201" y="351" width="46.5" height="63" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
