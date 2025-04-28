@@ -1,34 +1,23 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="nvMLmaHpnBV7wXiaVcCQ" name="第 1 页">
-    <mxGraphModel dx="1434" dy="844" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="683" dy="402" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="C-C51ORrXQO7mscXATUr-44" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#10739e;fillColor=#b1ddf0;" parent="1" vertex="1">
           <mxGeometry x="402" y="338" width="145" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="C-C51ORrXQO7mscXATUr-45" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0e8088;fillColor=#b0e3e6;" parent="1" vertex="1">
-          <mxGeometry x="220" y="338" width="161" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="C-C51ORrXQO7mscXATUr-16" value="App01" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.traditional_server;gradientColor=none;strokeColor=#036897;fillColor=#036897;" parent="1" vertex="1">
-          <mxGeometry x="239" y="351" width="46.5" height="63" as="geometry" />
-        </mxCell>
-        <mxCell id="C-C51ORrXQO7mscXATUr-17" value="App02" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.traditional_server;gradientColor=none;strokeColor=#036897;fillColor=#036897;" parent="1" vertex="1">
-          <mxGeometry x="313.5" y="351" width="46.5" height="63" as="geometry" />
-        </mxCell>
         <mxCell id="C-C51ORrXQO7mscXATUr-18" value="DB02" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.traditional_server;gradientColor=none;strokeColor=#036897;fillColor=#036897;" parent="1" vertex="1">
           <mxGeometry x="490" y="351" width="46.5" height="63" as="geometry" />
-        </mxCell>
-        <mxCell id="C-C51ORrXQO7mscXATUr-35" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;strokeColor=#6F0000;fillColor=#a20025;" parent="1" source="C-C51ORrXQO7mscXATUr-19" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="453" y="492" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="C-C51ORrXQO7mscXATUr-19" value="DB01" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.traditional_server;gradientColor=none;strokeColor=#036897;fillColor=#036897;" parent="1" vertex="1">
           <mxGeometry x="413.5" y="351" width="46.5" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="C-C51ORrXQO7mscXATUr-49" style="edgeStyle=none;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;strokeColor=#6F0000;" parent="1" source="C-C51ORrXQO7mscXATUr-17" target="C-C51ORrXQO7mscXATUr-17" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="C-C51ORrXQO7mscXATUr-49" style="edgeStyle=none;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;strokeColor=#6F0000;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="382.5" as="sourcePoint" />
+            <mxPoint x="360" y="382.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
