@@ -126,8 +126,8 @@
             <mxPoint x="720" y="336" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BRfXYv5z7ZLlwfHjP5_S-45" value="IP&amp;amp;Listener" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
-          <mxGeometry x="650" y="299" width="80" height="26" as="geometry" />
+        <mxCell id="BRfXYv5z7ZLlwfHjP5_S-45" value="/ccdata" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="565" y="436" width="57" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
