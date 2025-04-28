@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="C-C51ORrXQO7mscXATUr-50" value="RACK" style="strokeColor=#666666;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rackGeneral.container;fillColor2=#f4f4f4;container=1;collapsible=0;childLayout=rack;allowGaps=1;marginLeft=9;marginRight=9;marginTop=21;marginBottom=22;textColor=#666666;numDisp=off;gradientColor=none;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="255" y="540" width="276" height="160" as="geometry" />
-        </mxCell>
         <mxCell id="C-C51ORrXQO7mscXATUr-44" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#10739e;fillColor=#b1ddf0;" parent="1" vertex="1">
           <mxGeometry x="170" y="336" width="248" height="100" as="geometry" />
         </mxCell>
@@ -71,9 +68,6 @@
           <mxGeometry x="-0.211" y="-3" relative="1" as="geometry">
             <mxPoint x="8" y="4" as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="BRfXYv5z7ZLlwfHjP5_S-4" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#7AA116;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.snowcone;" vertex="1" parent="1">
-          <mxGeometry x="329" y="403" width="78" height="78" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
