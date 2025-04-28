@@ -69,7 +69,7 @@
             <mxPoint x="8" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BRfXYv5z7ZLlwfHjP5_S-12" value="NIC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFB570;" vertex="1" parent="1">
+        <mxCell id="BRfXYv5z7ZLlwfHjP5_S-12" value="NIC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#4D9900;" vertex="1" parent="1">
           <mxGeometry x="143" y="306" width="39" height="26" as="geometry" />
         </mxCell>
         <mxCell id="BRfXYv5z7ZLlwfHjP5_S-13" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#b85450;" vertex="1" parent="1">
