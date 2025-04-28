@@ -72,7 +72,7 @@
         <mxCell id="BRfXYv5z7ZLlwfHjP5_S-12" value="NIC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="150" y="305" width="39" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="BRfXYv5z7ZLlwfHjP5_S-13" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="BRfXYv5z7ZLlwfHjP5_S-13" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="212.25" y="339" width="24" height="23" as="geometry" />
         </mxCell>
       </root>
